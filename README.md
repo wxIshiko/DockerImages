@@ -5,6 +5,11 @@ we use for the wxIshiko projects.
 
 The images are available from the [Docker Store](https://store.docker.com/profiles/wxishiko).
 
+## Images
+
+ - [ubuntu-wxwidgets-build](https://github.com/wxIshiko/DockerImages/tree/master/ubuntu-wxwidgets-build): an image used to compile
+   the wxIshiko projects with [CircleCI](https://circleci.com/).
+
 ## License
 
 The license below is the license for the configuration files in this repository. The images
