@@ -1,3 +1,7 @@
+The license below is the license for the configuration files in this repository.
+The images themselves and their content have their own licenses.
+
+
 Copyright (c) 2017 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
