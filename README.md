@@ -3,7 +3,7 @@
 Configuration files for a few [Docker](https://www.docker.com/) images that
 we use for the wxIshiko projects.
 
-The images are available from the [Docker Store](https://store.docker.com/profiles/wxishiko).
+The images are available from [Docker Hub](https://hub.docker.com/u/wxishiko).
 
 ## Images
 
