@@ -12,8 +12,8 @@ The images are available from the [Docker Store](https://store.docker.com/profil
 
 ## License
 
-The license below is the license for the configuration files in this repository. The images
-themselves and their content have their own licenses.
+**The license below is the license for the configuration files in this repository.
+The images themselves and their content have their own licenses.**
 
 Copyright (c) 2017 Xavier Leclercq
 
